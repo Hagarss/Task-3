@@ -72,6 +72,3 @@ for a file 666 and for a dir 777
 20. List the inode numbers of /, /etc, /etc/hosts.
 ![image](https://github.com/user-attachments/assets/2b09b311-ef56-4d36-b9d3-1e12aac4355d)
 
-21. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the file you copied, and then use these commands again, and check the output.
-22. Create a symbolic link of /etc/passwd in /boot.
-23. Create a hard link of /etc/passwd in /boot. Could you? Why?
